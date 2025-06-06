@@ -38,7 +38,7 @@ This website consists of two main pages:
 ## 🚀 How to Use
 
 1. Download or clone this repository.
-2. Make sure images like `logo.png` are placed in the project folder.
+2. Make sure images like `logo.png` and custom CSS (`style.css`) are placed in the project folder.
 3. Open `index.html` or `product.html` in a web browser to view the pages.
 
 ---
