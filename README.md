@@ -52,11 +52,3 @@ This website consists of two main pages:
 - You can easily connect this template with backend technologies or JavaScript frameworks to make it fully functional.
 
 ---
-
-## 📷 Screenshots *(Optional)*
-
-Add screenshots of your homepage and product page to showcase the design.
-
----
-
-## 📁 Folder Structure
