@@ -1,5 +1,4 @@
 # E---commerce---website
-# 🛒 E-Commerce Front-End Template
 
 This project is a basic front-end layout for an e-commerce website, created using **HTML**, **Bootstrap 4**, and **Font Awesome**. It is designed to showcase a simple and responsive user interface suitable for online shopping platforms.
 
